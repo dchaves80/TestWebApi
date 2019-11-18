@@ -1,0 +1,6 @@
+E:\OlympusSoftware\Dev\PruebaWebApi\Node\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+E:\OlympusSoftware\Dev\PruebaWebApi\Node\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\OlympusSoftware\Dev\PruebaWebApi\Node\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\OlympusSoftware\Dev\PruebaWebApi\Node\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+E:\OlympusSoftware\Dev\PruebaWebApi\Node\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\OlympusSoftware\Dev\PruebaWebApi\Node\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
